@@ -1,6 +1,7 @@
-# Hi there im Mark
+# Hi there,Im Mark
 ## Nice to meet you :)
-### Im from **Outsoar.PH**
+---------------------------------------------------------------------------
+ Im from **Outsoar.PH**
 
 
 <!--
